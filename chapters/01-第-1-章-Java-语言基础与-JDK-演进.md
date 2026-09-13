@@ -1,6 +1,7 @@
 # 第 1 章 Java 语言基础与 JDK 演进
 
-> 摘自《Java 面试全栈通关指南》——161 道题 / 12 个模块，覆盖 Java 后端与 Java AI 应用开发。
+> 摘自《Java 面试全栈通关指南》——192 道题 / 17 个模块，覆盖 Java 后端与 Java AI 应用开发，
+> 其中第 13–16 章为**真实业务场景题**（每题先给业务约束与量级，再渐进追问）。
 > 在线阅读（可搜索、自测、记进度）：https://java-interview-guide.app.workbuddy.host/
 
 ---
@@ -476,5 +477,6 @@ public final class LruCache<K, V> {
 
 ---
 
-> 完整 161 题见在线版：https://java-interview-guide.app.workbuddy.host/
+> 完整 192 题见在线版：https://java-interview-guide.app.workbuddy.host/
+> 场景面试题另有单册：`Java场景面试题.md`（31 题，含答题方法论导读）。
 > 下一章持续更新中，欢迎收藏。
